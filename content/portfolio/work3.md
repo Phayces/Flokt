@@ -5,12 +5,13 @@ date = "2016-11-05T19:44:32+05:30"
 title = "Japanese Seigaiha Pendant"
 draft = false
 weight = 3
+Description = "With its iconic Japanese style the *seigaiha* (青海波), literally meaning *blue sea wave*, is frequently encountered on Japanese cloth products such as bags, towels and kimonos."
 +++
+
+![Japanese Seigaiha Pendant](/img/portfolio/seigaiha_test_img.jpg)
 
 With its iconic Japanese style the *seigaiha* (青海波), literally meaning *blue sea wave*, is frequently encountered on Japanese cloth products such as bags, towels and kimonos.
 <!--more-->
-
-![Japanese Seigaiha Pendant](/img/portfolio/seigaiha_test_img.jpg)
 
 The shape has been optimized for a fashionable pendant by tilting the angles of the outer two waves, giving it a coherent structure that redefines its slick look. Elegantly hidden are the holes for the necklace that add up to the clean and exclusive aesthetic of the pendant.
 

@@ -5,6 +5,7 @@ image = "/img/portfolio/gohei_test_img.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Japanese Gohei Pendant"
 weight = 1
+description = "This pendant is inspired by the unique look of a Japanese *gohei* (御幣). It is frequently encountered at Shintō Shrines throughout Japan and it is meant to have cleansing and sanctifying properties."
 +++
 
 ![Japanese Gohei Pendant](/img/portfolio/gohei_test_img.jpg)

@@ -5,12 +5,13 @@ date = "2016-11-05T19:56:17+05:30"
 title = "Geometric Star Pendant"
 showonlyimage = false
 weight = 6
+description = "This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style."
 +++
+
+![Geometric Star Pendant](/img/portfolio/geo_star_test_img.jpg)
 
 This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style. 
 <!--more-->
-
-![Geometric Star Pendant](/img/portfolio/geo_star_test_img.jpg)
 
 Each branch of the star is gradually elevated to the end, giving it a fair amount of three-dimensional detail. This pendant stands for style consciousness and original simplicity without being too basic.
 

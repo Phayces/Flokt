@@ -5,13 +5,13 @@ date = "2016-11-05T19:57:40+05:30"
 title = "Angulated Circle Pendant"
 draft = false
 weight = 7
+description = "Finding new ways of interpreting a circle by enhancing its basic shape with a risen edge and placing it at an interesting position."
 +++
 
-Finding new ways of interpreting a circle by enhancing its basic shape with a risen edge and placing it at an interesting position.
- 
-<!--more-->
-
 ![Angulated Circle Pendant](/img/portfolio/circle_test_img.jpg)
+
+Finding new ways of interpreting a circle by enhancing its basic shape with a risen edge and placing it at an interesting position.
+<!--more-->
 
 The sharp edge has been placed perfectly in order to emphasise the pendant’s inner gap and its geometrical depth. The beauty of continuity, persistency and reiteration bundled in a piece of art.
 

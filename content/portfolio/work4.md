@@ -5,12 +5,13 @@ showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Rounded Triple Triangle Pendant"
 weight = 4
+description = "Round edges. Sharp edges. The recognisable look of a triangle, reimagined and tripled. Plenty of triangle pendants are seen regularly, but this one is an eyecatcher."
 +++
+
+![Rounded Triple Triangle Pendant](/img/portfolio/triple_triangle_test_img.jpg)
 
 Round edges. Sharp edges. The recognisable look of a triangle, reimagined and tripled. Plenty of triangle pendants are seen regularly, but this one is an eyecatcher.
 <!--more-->
-
-![Rounded Triple Triangle Pendant](/img/portfolio/triple_triangle_test_img.jpg)
 
 The slight angles of the outer parts are meticulously defined, maintaining a minimalist charm while also creating an original, distinctive shape. To channel the full focus on the pendant itself, the necklace holders are subtly placed on the back, making perfect use of the slightly curved shape of the pendant. The result: a balanced and elegant piece of jewellery.
 

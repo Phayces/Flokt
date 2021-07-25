@@ -5,6 +5,7 @@ draft = false
 image = "img/portfolio/omamori_knot_test_img.jpg"
 showonlyimage = false
 weight = 2
+description = "*Omamori* (御守り) are cute little Japanese cloth lucky charms. Their inherent fortune is tightly sealed within by an artistically knotted string."
 +++
 
 *Omamori* (御守り) are cute little Japanese cloth lucky charms. Their inherent fortune is tightly sealed within by an artistically knotted string.

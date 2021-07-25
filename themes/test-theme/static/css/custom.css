@@ -4,3 +4,11 @@
     margin: 0;
     text-align: justify;
 }
+
+.content-column-content p {
+    text-align: justify;
+}
+
+.sidebar-p {
+    text-align: justify;
+}

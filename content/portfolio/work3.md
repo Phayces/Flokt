@@ -1,31 +1,40 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "/img/portfolio/seigaiha_test_img.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "Japanese Seigaiha Pendant"
 draft = false
-weight = 2
+weight = 3
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+With its iconic Japanese style the *seigaiha* (青海波), literally meaning *blue sea wave*, is frequently encountered on Japanese cloth products such as bags, towels and kimonos.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![Japanese Seigaiha Pendant](/img/portfolio/seigaiha_test_img.jpg)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+The shape has been optimized for a fashionable pendant by tilting the angles of the outer two waves, giving it a coherent structure that redefines its slick look. Elegantly hidden are the holes for the necklace that add up to the clean and exclusive aesthetic of the pendant.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+> **Shop this product:**  
+[i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Dimensions
 
-## Header Level 2
+**Length:** 26.32 mm | 1.04″  
+**Width:** 34.03 mm | 1.34″  
+**Height:** 4.75 mm | 0.19″
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+**Rings:** ≈ 4.0 x 2.9 mm | 0.16 x 0.11″ (Oval Shaped)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Material & Finishing
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+**Silver:** High Gloss  
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+---
+
+Got a question before buying? Do not hesitate to contact me directly:
+florentin.hartl@gmail.com
+
+Contact me in English.  
+Kontaktieren Sie mich auf Deutsch.  
+Contactez-moi en français.  
+日本語で御連絡ください。

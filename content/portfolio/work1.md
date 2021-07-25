@@ -1,31 +1,42 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "/img/portfolio/gohei_test_img.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
-weight = 0
+title = "Japanese Gohei Pendant"
+weight = 1
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![Japanese Gohei Pendant](/img/portfolio/gohei_test_img.jpg)
+
+This pendant is inspired by the unique look of a Japanese *gohei* (御幣). It is frequently encountered at Shintō Shrines throughout Japan and it is meant to have cleansing and sanctifying properties.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The *gohei’s* characteristic shape has been carefully transferred into the pendant without losing its aesthetic recognition value. The minimalist and geometric simplicity of the pendant reflect its beauty and profound meaning in an elegantly humble way, just like a real *gohei* does.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+> **Shop this product*:**  
+[i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+*Necklace not included
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Dimensions
 
-## Header Level 2
+**Length:** 21.76 mm | 0.86″  
+**Width:** 12.27 mm | 0.48″  
+**Height:** 4.50 mm | 0.18″
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+**Ring:** ≈ 3.8 x 2.8 mm | 0.15 x 0.11″ (Oval Shaped)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Material & Finishing
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+**Silver:** High Gloss  
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+---
+
+Got a question before buying? Do not hesitate to contact me directly:
+florentin.hartl@gmail.com
+
+Contact me in English.  
+Kontaktieren Sie mich auf Deutsch.  
+Contactez-moi en français.  
+日本語で御連絡ください。

@@ -3,19 +3,29 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+My name is Florentin Oktavian Hartl and I live in the cities of Vienna and Linz, Austria. The meaning of Flokt is me – quite literally. Thus, I care for every one of my works, aiming for the highest level of quality possible to satisfy my mind and, above all, to meet the expectations of everyone who supports Flokt.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+I decided to share my designs with the world and to take my passion for 3D printing to the next level with Flokt. I have a deep interest for Japan, minimalism and geometrical beauty, and I enjoy finding new ways of combining these three elements. The results range from Japanese cultural products in a reimagined fashion to simple, yet intricate trinkets of unique geometrical shapes.
+
+The **crafting process** of Flokt jewellery starts with me creating a digital 3D model using a 3D modeling software. The finished model is then sent to *i.materialise*, a 3D printing service based in Belgium, who will create my design by printing a casting mould in the shape of the model and subsequently casting it with the corresponding metal. The resulting piece then undergoes a thorough polishing, turning it into a high-quality  piece of jewellery.
 
 ![This is me][1]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+With the age of sixteen I started teaching myself digital 3D modelling and stuck to it ever since – leading to experimentations with 3D printing. I got quite fond of the process of imagining, designing and overturning, then *reimagining*, *redesigning* and eventually having a product to be proud of.
 
-#### Education
+#### Get in touch
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+* **Like a piece or two? Take a gander at my store:**  
+[i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
+* **Check out Flokt on Instagram:**  
+[instagram.com/flokt_design](https://www.instagram.com/flokt_design/)
+* **It’s great to get some feedback!** Contact me directly by mail for questions, suggestions … or philosophical stuff, whatever!  
+florentin.hartl@gmail.com
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+---
+Contact me in English.  
+Kontaktieren Sie mich auf Deutsch.  
+Contactez-moi en français.  
+日本語で御連絡ください。
 
 [1]: /img/about.jpg

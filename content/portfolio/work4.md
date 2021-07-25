@@ -1,31 +1,40 @@
 +++
 draft = false
-image = ""
+image = "/img/portfolio/triple_triangle_test_img.jpg"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
+title = "Rounded Triple Triangle Pendant"
 weight = 4
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Round edges. Sharp edges. The recognisable look of a triangle, reimagined and tripled. Plenty of triangle pendants are seen regularly, but this one is an eyecatcher.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![Rounded Triple Triangle Pendant](/img/portfolio/triple_triangle_test_img.jpg)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+The slight angles of the outer parts are meticulously defined, maintaining a minimalist charm while also creating an original, distinctive shape. To channel the full focus on the pendant itself, the necklace holders are subtly placed on the back, making perfect use of the slightly curved shape of the pendant. The result: a balanced and elegant piece of jewellery.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+> **Shop this product:**  
+[i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Dimensions
 
-## Header Level 2
+**Length:** 12.25  mm | 0.48″  
+**Width:** 23.11 mm | 0.91″  
+**Height:** 5.31 mm | 0.21″
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+**Rings:** ≈ 4.4 x 1.9 mm | 0.17 x 0.08″ (Rectangle Shape)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Material & Finishing
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+**Silver:** High Gloss  
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+---
+
+Got a question before buying? Do not hesitate to contact me directly:
+florentin.hartl@gmail.com
+
+Contact me in English.  
+Kontaktieren Sie mich auf Deutsch.  
+Contactez-moi en français.  
+日本語で御連絡ください。

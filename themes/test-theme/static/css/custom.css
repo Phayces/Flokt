@@ -33,3 +33,7 @@
 .carousel-control.right, .carousel-control.left{
     background-image: none;
 }
+
+.carousel-inner {
+    margin-bottom: 25px;
+}

@@ -8,6 +8,8 @@ weight = 1
 description = "This pendant is inspired by the unique look of a Japanese *gohei* (御幣). It is frequently encountered at Shintō Shrines throughout Japan and it is meant to have cleansing and sanctifying properties."
 +++
 
+{{< slide "/img/portfolio/1_Japanese_Gohei_Pendant">}}
+
 ![Japanese Gohei Pendant](/img/portfolio/gohei_test_img.jpg)
 
 This pendant is inspired by the unique look of a Japanese *gohei* (御幣). It is frequently encountered at Shintō Shrines throughout Japan and it is meant to have cleansing and sanctifying properties.

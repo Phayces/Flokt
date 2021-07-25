@@ -5,6 +5,23 @@
     text-align: justify;
 }
 
+.box-masonry-text h4 {
+    margin-top: 0px;
+    margin-bottom: 6px;
+
+}
+.box-masonry-text h4 a {
+    color: #f0f0f0;
+    border: none
+}
+
+.box-masonry-text h4 a:hover {
+    color: #ffffff;
+    text-decoration: underline ;
+    text-decoration-color: #ffffff;
+    border: none
+}
+
 .content-column-content p {
     text-align: justify;
 }

@@ -29,3 +29,7 @@
 .sidebar-p {
     text-align: justify;
 }
+
+.carousel-control.right, .carousel-control.left{
+    background-image: none;
+}

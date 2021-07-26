@@ -26,7 +26,7 @@ The shape has been optimized for a fashionable pendant by tilting the angles of 
 **Width:** 34.03 mm | 1.34″  
 **Height:** 4.75 mm | 0.19″
 
-**Rings:** ≈ 4.0 x 2.9 mm | 0.16 x 0.11″ (Oval Shaped)
+**Eyelet:** ≈ 4.0 x 2.9 mm | 0.16 x 0.11″ (Oval Shaped)
 
 #### Material & Finishing
 

@@ -26,7 +26,7 @@ This pendant redefines the ornate value of the *omamori* knot and turns it into 
 **Width:** 28.49 mm | 1.12″  
 **Height:** 4.89 mm | 0.19″
 
-**Ring:** ≈ 3.9 x 2.8 mm | 0.15 x 0.11″ (Oval Shaped)
+**Eyelet:** ≈ 3.9 x 2.8 mm | 0.15 x 0.11″ (Oval Shaped)
 
 #### Material & Finishing
 

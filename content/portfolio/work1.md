@@ -26,7 +26,7 @@ The *gohei’s* characteristic shape has been carefully transferred into the pen
 **Width:** 12.27 mm | 0.48″  
 **Height:** 4.50 mm | 0.18″
 
-**Ring:** ≈ 3.8 x 2.8 mm | 0.15 x 0.11″ (Oval Shaped)
+**Eyelet:** ≈ 3.8 x 2.8 mm | 0.15 x 0.11″ (Oval Shaped)
 
 #### Material & Finishing
 

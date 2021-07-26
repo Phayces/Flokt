@@ -26,7 +26,7 @@ Each branch of the star is gradually elevated to the end, giving it a fair amoun
 **Width:** ???  
 **Height:** ???
 
-**Ring:** ???
+**Eyelet:** ???
 
 #### Material & Finishing
 

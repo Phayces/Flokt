@@ -26,7 +26,7 @@ The smooth base shape of the pendant is contrasted by the sharp-edged indentatio
 **Width:** 18.67 mm | 0.73″  
 **Height:** 4.50 mm | 0.18″
 
-**Ring:** ≈ 3.8 x 2.8 mm | 0.15 x 0.11″ (Oval Shaped)
+**Eyelet:** ≈ 3.8 x 2.8 mm | 0.15 x 0.11″ (Oval Shaped)
 
 #### Material & Finishing
 

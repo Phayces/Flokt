@@ -26,7 +26,7 @@ The sharp edge has been placed perfectly in order to emphasise the pendant’s i
 **Width:** 20.73 mm | 0.82″  
 **Height:** 5.25 mm | 0.21″
 
-**Ring:** ≈ 3.4 mm | 0.13″ (⌀, Circle Shaped)
+**Eyelet:** ≈ 3.4 mm | 0.13″ (⌀, Circle Shaped)
 
 #### Material & Finishing
 

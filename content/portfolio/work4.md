@@ -26,7 +26,7 @@ The slight angles of the outer parts are meticulously defined, maintaining a min
 **Width:** 23.11 mm | 0.91″  
 **Height:** 5.31 mm | 0.21″
 
-**Rings:** ≈ 4.4 x 1.9 mm | 0.17 x 0.08″ (Rectangle Shape)
+**Eyelet:** ≈ 4.4 x 1.9 mm | 0.17 x 0.08″ (Rectangle Shape)
 
 #### Material & Finishing
 

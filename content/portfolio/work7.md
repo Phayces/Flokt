@@ -1,5 +1,5 @@
 +++
-image = "/img/portfolio/circle_test_img.jpg"
+image = "/img/portfolio/Preview/Angulated_Circle_Pendant_Preview.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Angulated Circle Pendant"
@@ -8,15 +8,17 @@ weight = 7
 description = "Finding new ways of interpreting a circle by enhancing its basic shape with a risen edge and placing it at an interesting position."
 +++
 
-![Angulated Circle Pendant](/img/portfolio/circle_test_img.jpg)
+{{< slide "/img/portfolio/7_Angulated_Circle_Pendant">}}
 
 Finding new ways of interpreting a circle by enhancing its basic shape with a risen edge and placing it at an interesting position.
 <!--more-->
 
 The sharp edge has been placed perfectly in order to emphasise the pendant’s inner gap and its geometrical depth. The beauty of continuity, persistency and reiteration bundled in a piece of art.
 
-> **Shop this product:**  
+> **Shop this product\*:**  
 [i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
+
+\* Necklace not included
 
 #### Dimensions
 

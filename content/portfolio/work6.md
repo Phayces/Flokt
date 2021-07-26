@@ -15,8 +15,10 @@ This five-pointed star or asterisk pendant fits your neck with its canny simplic
 
 Each branch of the star is gradually elevated to the end, giving it a fair amount of three-dimensional detail. This pendant stands for style consciousness and original simplicity without being too basic.
 
-> **Shop this product:**  
+> **Shop this product\*:**  
 [i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
+
+\* Necklace not included
 
 #### Dimensions
 

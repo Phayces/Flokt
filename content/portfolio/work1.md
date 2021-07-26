@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/portfolio/gohei_test_img.jpg"
+image = "/img/portfolio/Preview/Gohei_Preview.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Japanese Gohei Pendant"
 weight = 1

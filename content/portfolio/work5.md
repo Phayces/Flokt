@@ -1,5 +1,5 @@
 +++
-image = "/img/portfolio/futuristic_Y_shape_test_img.jpg"
+image = "/img/portfolio/Preview/Futuristc_Y_Shape_Pendant_Preview.jpg"
 showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
@@ -8,15 +8,17 @@ weight = 5
 description = "A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations."
 +++
 
-![Futuristic Y-Shape Pendant](/img/portfolio/futuristic_Y_shape_test_img.jpg)
+{{< slide "/img/portfolio/5_Futuristic_Y_Shape_Pendant">}}
 
 A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations.
 <!--more-->
 
 The smooth base shape of the pendant is contrasted by the sharp-edged indentations in the centre, giving it the appeal of a modern accessory. First darkening by oxidation and then polishing thoroughly gives the deeper surfaces of the pendant a black colouring, while the upper surface becomes shiny.
 
-> **Shop this product:**  
+> **Shop this product\*:**  
 [i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
+
+\* Necklace not included
 
 #### Dimensions
 

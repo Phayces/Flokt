@@ -1,0 +1,165 @@
+/* your styles go here */
+
+.box-masonry-text p {
+    margin: 0;
+    text-align: justify;
+}
+
+.box-masonry-text h4 {
+    margin-top: 0px;
+    margin-bottom: 6px;
+}
+
+.box-masonry-text h4 a {
+    color: #f0f0f0;
+    border: none
+}
+
+.box-masonry-text h4 a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+    border: none
+}
+
+.content-column-content p {
+    text-align: justify;
+}
+
+.sidebar-p {
+    text-align: justify;
+}
+
+.carousel-control.right,
+.carousel-control.left {
+    background-image: none;
+}
+
+.carousel-inner {
+    margin-bottom: 25px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 6px 2px #3c3c3d;
+    background-color: rgba(0, 0, 0, 0);
+    overflow: hidden;
+}
+
+.sidebar-menu li:before {
+    font-family: 'Material Icons';
+    content: '\e5df';
+    font-size: 24px;
+    margin: 0 5px 0 -15px;
+    color: #999999;
+}
+
+.box-masonry .box-masonry-image.with-hover-icon:after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    opacity: 0;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    font-family: 'Material Icons';
+    content: '\e5e1';
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.content-column-content ul li:before,
+.sidebar-menu li:before {
+    font-family: 'Material Icons';
+    content: '\e5df';
+    font-size: 26px;
+    position: absolute;
+    top: -8px;
+    left: -9px;
+    /* font-weight: bold; */
+    /*color: #feb6a7;*/
+}
+
+.content-column-content ul li,
+.sidebar-menu li {
+    position: relative;
+}
+
+.sidebar-menu li:before {
+    color: #969494;
+}
+
+@media (max-width: 767px) {
+    .small-navbar {
+        display: flex!important;
+    }
+}
+
+.small-navbar-heading {
+    margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+;
+body {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: inherit;
+}
+
+.shopbutton-main {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.shopbutton-main i {
+    font-size: 80%;
+    margin-right: 4px;
+}
+
+.shopbutton-secondary {
+    font-size: 15;
+    text-align: right;
+    font-weight: bold;
+}
+
+.shopbutton {
+    display: inline-block;
+    position: relative;
+    clear: both;
+    color: #ffffff;
+    background-color: #feb6a7;
+    padding: 4px 18px;
+    padding-right: 27px;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-bottom: 23px;
+    box-shadow: 0px 5px 6px 2px #1b1e1e63;
+}
+
+.shopbutton-main:after {
+    content: "*";
+    position: absolute;
+}
+
+.shopbutton:hover,
+.shopbutton:focus {
+    color: #ffffff;
+    background-color: #fdccc1;
+}

@@ -88,3 +88,23 @@
   .sidebar-menu li:before {
       color: #969494;
   }
+
+  @media (max-width: 767px) {
+    .small-navbar {
+        display: flex!important;
+    }
+  }
+
+  .small-navbar-heading {
+      margin: 0;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');;
+
+  body {
+      font-family: 'Lato', Arial, Helvetica, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+      font-family: inherit;
+  }

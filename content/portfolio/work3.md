@@ -15,8 +15,7 @@ With its iconic Japanese style the *seigaiha* (青海波), literally meaning *bl
 
 The shape has been optimized for a fashionable pendant by tilting the angles of the outer two waves, giving it a coherent structure that redefines its slick look. Elegantly hidden are the holes for the necklace that add up to the clean and exclusive aesthetic of the pendant.
 
-> **Shop this product\*:**  
-[i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
+{{< shopbutton "https://i.materialise.com/de/shop/designer/FloktDesign">}}
 
 \* Necklace not included
 

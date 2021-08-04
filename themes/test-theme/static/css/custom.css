@@ -141,14 +141,21 @@ h6,
 
 .shopbutton {
     display: inline-block;
+    position: relative;
     clear: both;
     color: #ffffff;
     background-color: #feb6a7;
     padding: 4px 18px;
+    padding-right: 27px;
     border-radius: 8px;
     margin-left: 30px;
     margin-bottom: 23px;
-    box-shadow: 0px 5px 6px 2px #1b1e1e7e;
+    box-shadow: 0px 5px 6px 2px #1b1e1e63;
+}
+
+.shopbutton-main:after {
+    content: "*";
+    position: absolute;
 }
 
 .shopbutton:hover,

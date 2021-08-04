@@ -15,8 +15,7 @@ Finding new ways of interpreting a circle by enhancing its basic shape with a ri
 
 The sharp edge has been placed perfectly in order to emphasise the pendant’s inner gap and its geometrical depth. The beauty of continuity, persistency and reiteration bundled in a piece of art.
 
-> **Shop this product\*:**  
-[i.materialise.com/shop/designer/FloktDesign](https://i.materialise.com/de/shop/designer/FloktDesign)
+{{< shopbutton "https://i.materialise.com/de/shop/designer/FloktDesign">}}
 
 \* Necklace not included
 

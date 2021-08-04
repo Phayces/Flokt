@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flokt</title><link>https://example.org/</link><description>Recent content on Flokt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Japanese Gohei Pendant</title><link>https://example.org/portfolio/work1/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://example.org/portfolio/work1/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flokt</title><link>https://phayces.github.io/</link><description>Recent content on Flokt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://phayces.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Japanese Gohei Pendant</title><link>https://phayces.github.io/portfolio/work1/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://phayces.github.io/portfolio/work1/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
 &lt;ol class="carousel-indicators">
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
@@ -6,13 +6,13 @@
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
-&lt;img src="https://example.org/img/portfolio/1_Japanese_Gohei_Pendant/1_Gohei_Side.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/1_Japanese_Gohei_Pendant/1_Gohei_Side.jpg" alt="...">
 &lt;/div>
 &lt;div class="item">
-&lt;img src="https://example.org/img/portfolio/1_Japanese_Gohei_Pendant/2_Gohei_Back.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/1_Japanese_Gohei_Pendant/2_Gohei_Back.jpg" alt="...">
 &lt;/div>
 &lt;div class="item">
-&lt;img src="https://example.org/img/portfolio/1_Japanese_Gohei_Pendant/3_Gohei_Front.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/1_Japanese_Gohei_Pendant/3_Gohei_Front.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -22,7 +22,7 @@
 &lt;span class="glyphicon glyphicon-chevron-right">&lt;/span>
 &lt;/a>
 &lt;/div>
-&lt;p>This pendant is inspired by the unique look of a Japanese &lt;em>gohei&lt;/em> (御幣). It is frequently encountered at Shintō Shrines throughout Japan and it is meant to have cleansing and sanctifying properties.&lt;/p></description></item><item><title>Japanese Omamori Knot Pendant</title><link>https://example.org/portfolio/work2/</link><pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate><guid>https://example.org/portfolio/work2/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
+&lt;p>This pendant is inspired by the unique look of a Japanese &lt;em>gohei&lt;/em> (御幣). It is frequently encountered at Shintō Shrines throughout Japan and it is meant to have cleansing and sanctifying properties.&lt;/p></description></item><item><title>Japanese Omamori Knot Pendant</title><link>https://phayces.github.io/portfolio/work2/</link><pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate><guid>https://phayces.github.io/portfolio/work2/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
 &lt;ol class="carousel-indicators">
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
@@ -30,13 +30,13 @@
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
-&lt;img src="https://example.org/img/portfolio/2_Japanese_Omamori_Pendant/1_Omamori_Side.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/2_Japanese_Omamori_Pendant/1_Omamori_Side.jpg" alt="...">
 &lt;/div>
 &lt;div class="item">
-&lt;img src="https://example.org/img/portfolio/2_Japanese_Omamori_Pendant/2_Omamori_Back.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/2_Japanese_Omamori_Pendant/2_Omamori_Back.jpg" alt="...">
 &lt;/div>
 &lt;div class="item">
-&lt;img src="https://example.org/img/portfolio/2_Japanese_Omamori_Pendant/3_Omamori_Front.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/2_Japanese_Omamori_Pendant/3_Omamori_Front.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -46,9 +46,9 @@
 &lt;span class="glyphicon glyphicon-chevron-right">&lt;/span>
 &lt;/a>
 &lt;/div>
-&lt;p>&lt;em>Omamori&lt;/em> (御守り) are cute little Japanese cloth lucky charms. Their inherent fortune is tightly sealed within by an artistically knotted string.&lt;/p></description></item><item><title>Japanese Seigaiha Pendant</title><link>https://example.org/portfolio/work3/</link><pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate><guid>https://example.org/portfolio/work3/</guid><description>&lt;p>&lt;img src="https://example.org/img/portfolio/seigaiha_test_img.jpg" alt="Japanese Seigaiha Pendant">&lt;/p>
-&lt;p>With its iconic Japanese style the &lt;em>seigaiha&lt;/em> (青海波), literally meaning &lt;em>blue sea wave&lt;/em>, is frequently encountered on Japanese cloth products such as bags, towels and kimonos.&lt;/p></description></item><item><title>Rounded Triple Triangle Pendant</title><link>https://example.org/portfolio/work4/</link><pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate><guid>https://example.org/portfolio/work4/</guid><description>&lt;p>&lt;img src="https://example.org/img/portfolio/triple_triangle_test_img.jpg" alt="Rounded Triple Triangle Pendant">&lt;/p>
-&lt;p>Round edges. Sharp edges. The recognisable look of a triangle, reimagined and tripled. Plenty of triangle pendants are seen regularly, but this one is an eyecatcher.&lt;/p></description></item><item><title>Futuristic Y-Shape Pendant</title><link>https://example.org/portfolio/work5/</link><pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate><guid>https://example.org/portfolio/work5/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
+&lt;p>&lt;em>Omamori&lt;/em> (御守り) are cute little Japanese cloth lucky charms. Their inherent fortune is tightly sealed within by an artistically knotted string.&lt;/p></description></item><item><title>Japanese Seigaiha Pendant</title><link>https://phayces.github.io/portfolio/work3/</link><pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate><guid>https://phayces.github.io/portfolio/work3/</guid><description>&lt;p>&lt;img src="https://phayces.github.io/img/portfolio/seigaiha_test_img.jpg" alt="Japanese Seigaiha Pendant">&lt;/p>
+&lt;p>With its iconic Japanese style the &lt;em>seigaiha&lt;/em> (青海波), literally meaning &lt;em>blue sea wave&lt;/em>, is frequently encountered on Japanese cloth products such as bags, towels and kimonos.&lt;/p></description></item><item><title>Rounded Triple Triangle Pendant</title><link>https://phayces.github.io/portfolio/work4/</link><pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate><guid>https://phayces.github.io/portfolio/work4/</guid><description>&lt;p>&lt;img src="https://phayces.github.io/img/portfolio/triple_triangle_test_img.jpg" alt="Rounded Triple Triangle Pendant">&lt;/p>
+&lt;p>Round edges. Sharp edges. The recognisable look of a triangle, reimagined and tripled. Plenty of triangle pendants are seen regularly, but this one is an eyecatcher.&lt;/p></description></item><item><title>Futuristic Y-Shape Pendant</title><link>https://phayces.github.io/portfolio/work5/</link><pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate><guid>https://phayces.github.io/portfolio/work5/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
 &lt;ol class="carousel-indicators">
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
@@ -56,13 +56,13 @@
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
-&lt;img src="https://example.org/img/portfolio/5_Futuristic_Y_Shape_Pendant/1_Futuristc_Y_Shape_Pendant_Front.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/5_Futuristic_Y_Shape_Pendant/1_Futuristc_Y_Shape_Pendant_Front.jpg" alt="...">
 &lt;/div>
 &lt;div class="item">
-&lt;img src="https://example.org/img/portfolio/5_Futuristic_Y_Shape_Pendant/2_Futuristc_Y_Shape_Pendant_Back.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/5_Futuristic_Y_Shape_Pendant/2_Futuristc_Y_Shape_Pendant_Back.jpg" alt="...">
 &lt;/div>
 &lt;div class="item">
-&lt;img src="https://example.org/img/portfolio/5_Futuristic_Y_Shape_Pendant/3_Futuristc_Y_Shape_Pendant_Front.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/5_Futuristic_Y_Shape_Pendant/3_Futuristc_Y_Shape_Pendant_Front.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -72,8 +72,8 @@
 &lt;span class="glyphicon glyphicon-chevron-right">&lt;/span>
 &lt;/a>
 &lt;/div>
-&lt;p>A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations.&lt;/p></description></item><item><title>Geometric Star Pendant</title><link>https://example.org/portfolio/work6/</link><pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate><guid>https://example.org/portfolio/work6/</guid><description>&lt;p>&lt;img src="https://example.org/img/portfolio/geo_star_test_img.jpg" alt="Geometric Star Pendant">&lt;/p>
-&lt;p>This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style.&lt;/p></description></item><item><title>Angulated Circle Pendant</title><link>https://example.org/portfolio/work7/</link><pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate><guid>https://example.org/portfolio/work7/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
+&lt;p>A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations.&lt;/p></description></item><item><title>Geometric Star Pendant</title><link>https://phayces.github.io/portfolio/work6/</link><pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate><guid>https://phayces.github.io/portfolio/work6/</guid><description>&lt;p>&lt;img src="https://phayces.github.io/img/portfolio/geo_star_test_img.jpg" alt="Geometric Star Pendant">&lt;/p>
+&lt;p>This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style.&lt;/p></description></item><item><title>Angulated Circle Pendant</title><link>https://phayces.github.io/portfolio/work7/</link><pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate><guid>https://phayces.github.io/portfolio/work7/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
 &lt;ol class="carousel-indicators">
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
@@ -81,13 +81,13 @@
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
-&lt;img src="https://example.org/img/portfolio/7_Angulated_Circle_Pendant/1_Angulated_Circle_Pendant_Front.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/7_Angulated_Circle_Pendant/1_Angulated_Circle_Pendant_Front.jpg" alt="...">
 &lt;/div>
 &lt;div class="item">
-&lt;img src="https://example.org/img/portfolio/7_Angulated_Circle_Pendant/2_Angulated_Circle_Pendant_Side.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/7_Angulated_Circle_Pendant/2_Angulated_Circle_Pendant_Side.jpg" alt="...">
 &lt;/div>
 &lt;div class="item">
-&lt;img src="https://example.org/img/portfolio/7_Angulated_Circle_Pendant/3_Angulated_Circle_Pendant_Back.jpg" alt="...">
+&lt;img src="https://phayces.github.io/img/portfolio/7_Angulated_Circle_Pendant/3_Angulated_Circle_Pendant_Back.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">

@@ -41,3 +41,50 @@
     background-color: rgba(0,0,0,0);
     overflow: hidden;
 }
+
+.sidebar-menu li:before {
+    font-family: 'Material Icons';
+    content: '\e5df';
+    font-size: 24px;
+    margin: 0 5px 0 -15px;
+    color: #999999;
+}
+
+.box-masonry .box-masonry-image.with-hover-icon:after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    opacity: 0;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    font-family: 'Material Icons';
+    content: '\e5e1';
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+  }
+
+  .content-column-content ul li:before, .sidebar-menu li:before {
+    font-family: 'Material Icons';
+    content: '\e5df';
+    font-size: 26px;
+    position: absolute;
+    top: -8px;
+    left: -9px;
+    /* font-weight: bold; */
+    /*color: #feb6a7;*/
+  }
+
+  .content-column-content ul li, .sidebar-menu li {
+    position: relative;
+  }
+
+  .sidebar-menu li:before {
+      color: #969494;
+  }

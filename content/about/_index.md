@@ -9,7 +9,9 @@ I decided to share my designs with the world and to take my passion for 3D print
 
 The **crafting process** of Flokt jewellery starts with me creating a digital 3D model using a 3D modeling software. The finished model is then sent to *i.materialise*, a 3D printing service based in Belgium, who will create my design by printing a casting mould in the shape of the model and subsequently casting it with the corresponding metal. The resulting piece then undergoes a thorough polishing, turning it into a high-quality  piece of jewellery.
 
-![This is me][1]
+{{< rawhtml >}}
+<img src="/img/about.jpg" style="border-radius: 6px" class="img-responsive"> <br>
+{{< /rawhtml >}}
 
 With the age of sixteen I started teaching myself digital 3D modelling and stuck to it ever since – leading to experimentations with 3D printing. I got quite fond of the process of imagining, designing and overturning, then *reimagining*, *redesigning* and eventually having a product to be proud of.
 
@@ -27,5 +29,3 @@ Contact me in English.
 Kontaktieren Sie mich auf Deutsch.  
 Contactez-moi en français.  
 日本語で御連絡ください。
-
-[1]: /img/about.jpg

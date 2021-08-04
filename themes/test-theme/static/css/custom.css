@@ -144,10 +144,10 @@ h6,
     position: relative;
     clear: both;
     color: #ffffff;
-    background-color: #feb6a7;
+    background-color: #9dbdac;
     padding: 4px 18px;
     padding-right: 27px;
-    border-radius: 8px;
+    border-radius: 15px;
     margin-left: 30px;
     margin-bottom: 23px;
     box-shadow: 0px 5px 6px 2px #1b1e1e63;
@@ -161,5 +161,5 @@ h6,
 .shopbutton:hover,
 .shopbutton:focus {
     color: #ffffff;
-    background-color: #fdccc1;
+    background-color: #feb6a7;
 }

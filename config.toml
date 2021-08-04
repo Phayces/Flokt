@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://phayces.github.io/"
 title = "Flokt"
 theme = "test-theme"
 languageCode = "en-us"
@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
+  description = "Self-made metal jewellery"
   copyright = "&copy;2021 Florentin O. Hartl"
   sidebarAbout = [
     "Metal jewellery – thoughtfully designed and crafted. Every piece inherited with a personal sense for minimalism, perfectionism and sophistication.",
@@ -31,7 +31,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "florentin.hartl@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -59,7 +59,7 @@ googleAnalytics = ""
   [params.social]
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
+  email         = "florentin.hartl@gmail.com"
   twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"

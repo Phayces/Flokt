@@ -163,3 +163,11 @@ h6,
     color: #ffffff;
     background-color: #feb6a7;
 }
+
+.copyright p.credit a {
+    color: inherit;
+}
+
+.copyright p.credit a:hover {
+    text-decoration: underline;
+}

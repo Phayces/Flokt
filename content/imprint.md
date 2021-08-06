@@ -11,7 +11,7 @@ Austria
 florentin.hartl@gmail.com  
 {{< /rawhtml >}}
 
-This website is not an online shop. The purpose of this website is to display products of metal jewellery and to redirect visitors to a website where those products can be purchased. 
+This website is not an online shop. The purpose of this website is to display products of metal jewellery and to redirect visitors to a website where those products can be purchased. All information is supplied without liability.
 
 ---
 Contact me in English.  

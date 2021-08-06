@@ -1,35 +1,35 @@
 +++
-image = "/img/portfolio/Preview/Futuristc_Y_Shape_Pendant_Preview.jpg"
-showonlyimage = false
 draft = false
-date = "2016-11-05T19:53:42+05:30"
-title = "Futuristic Y-Shape Pendant"
-weight = 5
-description = "A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations."
+image = "/img/portfolio/geo_star_test_img.jpg"
+date = "2016-11-05T19:56:17+05:30"
+title = "Geometric Star Pendant"
+showonlyimage = false
+weight = 6
+description = "This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style."
 +++
 
-{{< slide "/img/portfolio/5_Futuristic_Y_Shape_Pendant">}}
+![Geometric Star Pendant](/img/portfolio/geo_star_test_img.jpg)
 
-A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations.
+This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style. 
 <!--more-->
 
-The smooth base shape of the pendant is contrasted by the sharp-edged indentations in the centre, giving it the appeal of a modern accessory. First darkening by oxidation and then polishing thoroughly gives the deeper surfaces of the pendant a black colouring, while the upper surface becomes shiny.
+Each branch of the star is gradually elevated to the end, giving it a fair amount of three-dimensional detail. This pendant stands for style consciousness and original simplicity without being too basic.
 
-{{< shopbutton "https://i.materialise.com/shop/designer/flokt">}}
+{{< shopbutton "https://i.materialise.com/de/shop/designer/flokt">}}
 
 \* Necklace not included
 
 #### Dimensions
 
-**Length:** 22.20 mm | 0.87″  
-**Width:** 18.67 mm | 0.73″  
-**Height:** 4.50 mm | 0.18″
+**Length**: ???  
+**Width:** ???  
+**Height:** ???
 
-**Eyelet:** ≈ 3.8 x 2.8 mm | 0.15 x 0.11″ (Oval Shaped)
+**Eyelet:** ???
 
 #### Material & Finishing
 
-**Silver:** Antique  
+**Silver:** High Gloss  
 
 ---
 

@@ -21,11 +21,11 @@ Each branch of the star is gradually elevated to the end, giving it a fair amoun
 
 #### Dimensions
 
-**Length**: ???  
-**Width:** ???  
-**Height:** ???
+**Length**: 19.44 | 0.77″  
+**Width:** 14.60 | 0.57″  
+**Height:** 5.63 | 0.22″  
 
-**Eyelet:** ???
+**Eyelet:** ≈ 4.7 x 3.9 mm | 0.18 x 0.15″ (Oval Shaped)
 
 #### Material & Finishing
 

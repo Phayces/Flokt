@@ -15,7 +15,7 @@ A one-of-a-kind piece of jewellery that creates a touch of futurism with its pec
 
 The smooth base shape of the pendant is contrasted by the sharp-edged indentations in the centre, giving it the appeal of a modern accessory. First darkening by oxidation and then polishing thoroughly gives the deeper surfaces of the pendant a black colouring, while the upper surface becomes shiny.
 
-{{< shopbutton "https://i.materialise.com/de/shop/designer/FloktDesign">}}
+{{< shopbutton "https://i.materialise.com/shop/designer/flokt">}}
 
 \* Necklace not included
 

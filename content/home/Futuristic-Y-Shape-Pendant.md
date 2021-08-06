@@ -15,7 +15,7 @@ This five-pointed star or asterisk pendant fits your neck with its canny simplic
 
 Each branch of the star is gradually elevated to the end, giving it a fair amount of three-dimensional detail. This pendant stands for style consciousness and original simplicity without being too basic.
 
-{{< shopbutton "https://i.materialise.com/de/shop/designer/FloktDesign">}}
+{{< shopbutton "https://i.materialise.com/de/shop/item/futuristic-y-shape-pendant?designer=flokt&sortBy=mostResent&pageNumber=1&pageSize=9&index=0">}}
 
 \* Necklace not included
 

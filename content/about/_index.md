@@ -18,9 +18,9 @@ With the age of sixteen I started teaching myself digital 3D modelling and stuck
 #### Get in touch
 
 * **Like a piece or two? Take a gander at my store:**  
-[i.materialise.com/shop/designer/flokt](https://i.materialise.com/shop/designer/flookt)
+[i.materialise.com/shop/designer/flookt](https://i.materialise.com/shop/designer/flookt)
 * **Check out Flookt on Instagram:**  
-[instagram.com/flokt_design](https://www.instagram.com/flokt_design/)
+[instagram.com/flookt_design](https://www.instagram.com/flookt_design/)
 * **It’s great to get some feedback!** Contact me directly by mail for questions, suggestions … or philosophical stuff, whatever!  
 florentin.hartl@gmail.com
 

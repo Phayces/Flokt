@@ -15,7 +15,7 @@ Finding new ways of interpreting a circle by enhancing its basic shape with a ri
 
 The sharp edge has been placed perfectly in order to emphasise the pendant’s inner gap and its geometrical depth. The beauty of continuity, persistency and reiteration bundled in a piece of art.
 
-{{< shopbutton "https://i.materialise.com/de/shop/item/angulated-circle-pendant?designer=flokt&sortBy=mostResent&pageNumber=1&pageSize=9&index=1">}}
+{{< shopbutton "https://i.materialise.com/de/shop/item/angulated-circle-pendant?designer=flookt&sortBy=mostResent&pageNumber=1&pageSize=9&index=1">}}
 
 \* Necklace not included
 

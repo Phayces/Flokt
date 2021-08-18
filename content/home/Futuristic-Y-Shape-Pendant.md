@@ -15,7 +15,7 @@ A one-of-a-kind piece of jewellery that creates a touch of futurism with its pec
 
 The smooth base shape of the pendant is contrasted by the sharp-edged indentations in the centre, giving it the appeal of a modern accessory. First darkening by oxidation and then polishing thoroughly gives the deeper surfaces of the pendant a black colouring, while the upper surface becomes shiny.
 
-{{< shopbutton "https://i.materialise.com/de/shop/item/futuristic-y-shape-pendant?designer=flokt&sortBy=mostResent&pageNumber=1&pageSize=9&index=0">}}
+{{< shopbutton "https://i.materialise.com/de/shop/item/futuristic-y-shape-pendant?designer=flookt&sortBy=mostResent&pageNumber=1&pageSize=9&index=0">}}
 
 \* Necklace not included
 

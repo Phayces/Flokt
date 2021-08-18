@@ -15,7 +15,7 @@ Round edges. Sharp edges. The recognisable look of a triangle, reimagined and tr
 
 The slight angles of the outer parts are meticulously defined, maintaining a minimalist charm while also creating an original, distinctive shape. To channel the full focus on the pendant itself, the necklace holders are subtly placed on the back, making perfect use of the slightly curved shape of the pendant. The result: a balanced and elegant piece of jewellery.
 
-{{< shopbutton "https://i.materialise.com/de/shop/designer/FloktDesign">}}
+{{< shopbutton "https://i.materialise.com/shop/designer/flookt">}}
 
 \* Necklace not included
 

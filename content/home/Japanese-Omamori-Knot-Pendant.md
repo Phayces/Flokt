@@ -15,7 +15,7 @@ description = "*Omamori* (御守り) are cute little Japanese cloth lucky charms
 
 This pendant redefines the ornate value of the *omamori* knot and turns it into a meaningful piece of jewellery. By stylising its core beauty and adding a defined edge to its smooth cords, the knot’s appearance has been reinvented into a remarkable piece of jewellery.
 
-{{< shopbutton "https://i.materialise.com/shop/designer/flokt">}}
+{{< shopbutton "https://i.materialise.com/shop/designer/flookt">}}
 
 \* Necklace not included
 

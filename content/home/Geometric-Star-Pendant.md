@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "/img/portfolio/geo_star_test_img.jpg"
+image = "/img/portfolio/Preview/Geometric_Star_Pendant_Preview.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Geometric Star Pendant"
 showonlyimage = false
@@ -8,7 +8,7 @@ weight = 6
 description = "This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style."
 +++
 
-![Geometric Star Pendant](/img/portfolio/geo_star_test_img.jpg)
+{{< slide "/img/portfolio/6_Geometric_Star_Pendant">}}
 
 This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style. 
 <!--more-->

@@ -95,7 +95,30 @@
 &lt;span class="glyphicon glyphicon-chevron-right">&lt;/span>
 &lt;/a>
 &lt;/div>
-&lt;p>A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations.&lt;/p></description></item><item><title>Geometric Star Pendant</title><link>https://www.flookt.com/home/geometric-star-pendant/</link><pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate><guid>https://www.flookt.com/home/geometric-star-pendant/</guid><description>&lt;p>&lt;img src="https://www.flookt.com/img/portfolio/geo_star_test_img.jpg" alt="Geometric Star Pendant">&lt;/p>
+&lt;p>A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations.&lt;/p></description></item><item><title>Geometric Star Pendant</title><link>https://www.flookt.com/home/geometric-star-pendant/</link><pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate><guid>https://www.flookt.com/home/geometric-star-pendant/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
+&lt;ol class="carousel-indicators">
+&lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="2">&lt;/li>
+&lt;/ol>
+&lt;div class="carousel-inner">
+&lt;div class="item active">
+&lt;img src="https://www.flookt.com/img/portfolio/6_Geometric_Star_Pendant/1_Geometric_Star_Pendant_Front.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/6_Geometric_Star_Pendant/2_Geometric_Star_Pendant_Side.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/6_Geometric_Star_Pendant/3_Geometric_Star_Pendant_Back.jpg" alt="...">
+&lt;/div>
+&lt;/div>
+&lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+&lt;span class="glyphicon glyphicon-chevron-left">&lt;/span>
+&lt;/a>
+&lt;a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+&lt;span class="glyphicon glyphicon-chevron-right">&lt;/span>
+&lt;/a>
+&lt;/div>
 &lt;p>This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style.&lt;/p></description></item><item><title>Angulated Circle Pendant</title><link>https://www.flookt.com/home/angulated-circle-pendant/</link><pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate><guid>https://www.flookt.com/home/angulated-circle-pendant/</guid><description>&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="999999">
 &lt;ol class="carousel-indicators">
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>

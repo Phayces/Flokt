@@ -4,11 +4,11 @@ image = "/img/portfolio/Preview/Geometric_Star_Pendant_Preview.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Geometric Star Pendant"
 showonlyimage = false
-weight = 6
+weight = 5
 description = "This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style."
 +++
 
-{{< slide "/img/portfolio/6_Geometric_Star_Pendant">}}
+{{< slide "/img/portfolio/5_Geometric_Star_Pendant">}}
 
 This five-pointed star or asterisk pendant fits your neck with its canny simplicity and its genuine sense of style. 
 <!--more-->

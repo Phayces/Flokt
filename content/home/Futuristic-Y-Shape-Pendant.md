@@ -4,11 +4,11 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "Futuristic Y-Shape Pendant"
-weight = 5
+weight = 6
 description = "A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations."
 +++
 
-{{< slide "/img/portfolio/5_Futuristic_Y_Shape_Pendant">}}
+{{< slide "/img/portfolio/6_Futuristic_Y_Shape_Pendant">}}
 
 A one-of-a-kind piece of jewellery that creates a touch of futurism with its peculiar Y-shape and its clear-cut indentations.
 <!--more-->

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "/img/portfolio/triple_triangle_test_img.jpg"
+image = "/img/portfolio/Preview/Triple_Triangle_Pendant_Preview.jpg"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Rounded Triple Triangle Pendant"
@@ -8,7 +8,7 @@ weight = 4
 description = "Round edges. Sharp edges. The recognisable look of a triangle, reimagined and tripled. Plenty of triangle pendants are seen regularly, but this one is an eyecatcher."
 +++
 
-![Rounded Triple Triangle Pendant](/img/portfolio/triple_triangle_test_img.jpg)
+{{< slide "/img/portfolio/4_Rounded_Triple_Triangle_Pendant">}}
 
 Round edges. Sharp edges. The recognisable look of a triangle, reimagined and tripled. Plenty of triangle pendants are seen regularly, but this one is an eyecatcher.
 <!--more-->

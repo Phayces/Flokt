@@ -3,6 +3,7 @@
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="2">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="3">&lt;/li>
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
@@ -13,6 +14,9 @@
 &lt;/div>
 &lt;div class="item">
 &lt;img src="https://www.flookt.com/img/portfolio/1_Japanese_Gohei_Pendant/3_Gohei_Front.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/1_Japanese_Gohei_Pendant/4_Gohei_Bust.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -27,6 +31,7 @@
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="2">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="3">&lt;/li>
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
@@ -37,6 +42,9 @@
 &lt;/div>
 &lt;div class="item">
 &lt;img src="https://www.flookt.com/img/portfolio/2_Japanese_Omamori_Pendant/3_Omamori_Front.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/2_Japanese_Omamori_Pendant/4_Omamori_Bust.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -51,6 +59,7 @@
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="2">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="3">&lt;/li>
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
@@ -61,6 +70,9 @@
 &lt;/div>
 &lt;div class="item">
 &lt;img src="https://www.flookt.com/img/portfolio/3_Japanese_Seigaiha_Pendant/3_Seigaiha_Back.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/3_Japanese_Seigaiha_Pendant/4_Seigaiha_Bust.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -75,6 +87,7 @@
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="2">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="3">&lt;/li>
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
@@ -85,6 +98,9 @@
 &lt;/div>
 &lt;div class="item">
 &lt;img src="https://www.flookt.com/img/portfolio/4_Rounded_Triple_Triangle_Pendant/3_Triple_Triangle_Pendant_Back.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/4_Rounded_Triple_Triangle_Pendant/4_Triple_Triangle_Pendant_Bust.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -99,6 +115,7 @@
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="2">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="3">&lt;/li>
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
@@ -109,6 +126,9 @@
 &lt;/div>
 &lt;div class="item">
 &lt;img src="https://www.flookt.com/img/portfolio/5_Geometric_Star_Pendant/3_Geometric_Star_Pendant_Back.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/5_Geometric_Star_Pendant/4_Geometric_Star_Pendant_Bust.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -123,6 +143,7 @@
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="2">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="3">&lt;/li>
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
@@ -133,6 +154,9 @@
 &lt;/div>
 &lt;div class="item">
 &lt;img src="https://www.flookt.com/img/portfolio/6_Futuristic_Y_Shape_Pendant/3_Futuristc_Y_Shape_Pendant_Front.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/6_Futuristic_Y_Shape_Pendant/4_Futuristc_Y_Shape_Pendant_Bust.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -147,6 +171,7 @@
 &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="1">&lt;/li>
 &lt;li data-target="#carousel-example-generic" data-slide-to="2">&lt;/li>
+&lt;li data-target="#carousel-example-generic" data-slide-to="3">&lt;/li>
 &lt;/ol>
 &lt;div class="carousel-inner">
 &lt;div class="item active">
@@ -157,6 +182,9 @@
 &lt;/div>
 &lt;div class="item">
 &lt;img src="https://www.flookt.com/img/portfolio/7_Angulated_Circle_Pendant/3_Angulated_Circle_Pendant_Back.jpg" alt="...">
+&lt;/div>
+&lt;div class="item">
+&lt;img src="https://www.flookt.com/img/portfolio/7_Angulated_Circle_Pendant/4_Angulated_Circle_Pendant_Bust.jpg" alt="...">
 &lt;/div>
 &lt;/div>
 &lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">

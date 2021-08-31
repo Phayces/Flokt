@@ -15,7 +15,7 @@ This pendant is inspired by the unique look of a Japanese *gohei* (御幣). It i
 
 The *gohei’s* characteristic shape has been carefully transferred into the pendant without losing its aesthetic recognition value. The minimalist and geometric simplicity of the pendant reflect its beauty and profound meaning in an elegantly humble way, just like a real *gohei* does.
 
-{{< shopbutton "https://i.materialise.com/shop/designer/flookt">}}
+{{< shopbutton "https://i.materialise.com/en/shop/item/japanese-gohei-pendant?designer=flookt&sortBy=mostResent&pageNumber=1&pageSize=9&index=0">}}
 
 \* Necklace not included
 

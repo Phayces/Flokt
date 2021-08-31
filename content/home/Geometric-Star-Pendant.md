@@ -15,7 +15,7 @@ This five-pointed star or asterisk pendant fits your neck with its canny simplic
 
 Each branch of the star is gradually elevated to the end, giving it a fair amount of three-dimensional detail. This pendant stands for style consciousness and original simplicity without being too basic.
 
-{{< shopbutton "https://i.materialise.com/de/shop/designer/flookt">}}
+{{< shopbutton "https://i.materialise.com/en/shop/item/merge-of-geo-star-pentagon-v4-export1-pentagon-whole-combine1?designer=flookt&sortBy=mostResent&pageNumber=1&pageSize=9&index=4">}}
 
 \* Necklace not included
 

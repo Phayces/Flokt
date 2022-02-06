@@ -13,7 +13,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Self-made metal jewellery"
-  copyright = "&copy;2021 Florentin O. Hartl | <a href=\"/imprint/\">Imprint</a>"
+  copyright = "&copy;2022 Florentin O. Hartl | <a href=\"/imprint/\">Imprint</a>"
   sidebarAbout = [
     "Flookt metal jewellery – thoughtfully designed and crafted. Every piece inherited with a personal sense for minimalism, perfectionism and sophistication.",
     "Inspired by Japanese cultural products and geometric shapes and structures. There are no half-measures, everything is well-considered and meticulously arranged.",
